@@ -1,4 +1,4 @@
-name: myenv
+name: myenv2
 channels:
   - defaults
 dependencies:
