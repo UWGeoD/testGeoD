@@ -1,4 +1,4 @@
-name: myenv2
+name: myenv
 channels:
   - defaults
 dependencies:
@@ -32,4 +32,4 @@ dependencies:
       - pyparsing==3.0.9
       - python-dateutil==2.8.2
       - six==1.16.0
-prefix: C:\Users\ellie\anaconda3\envs\myenv2
+prefix: C:\Users\ellie\anaconda3\envs\myenv
