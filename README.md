@@ -93,6 +93,9 @@ will allow us to store repositories locally on computer and push commits and pul
 ### *importing an environment*
   1. conda env create -f environment.yml (or local path name)
   2. conda activate myenv
+### *open spyder in environment*
+  1. Tools > Preferences > Python interpreter > "Use the following python interpreter:" select env from dropdown > Apply
+  2. Consoles > Restart kernel
   
 
 ## Communicating
