@@ -1,6 +1,6 @@
-name: myenv
+name: myenv2
 channels:
   - defaults
 dependencies:
   - python
-prefix: C:\Users\ellie\anaconda3\envs\myenv
+prefix: C:\Users\ellie\anaconda3\envs\myenv2
